@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.Form1.resources
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.Properties.Resources.resources
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.csproj.GenerateResource.cache
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\youareanidiot\youareanidiot\bin\Debug\youareanidiot.exe.config
+C:\Users\user\source\repos\youareanidiot\youareanidiot\bin\Debug\youareanidiot.exe
+C:\Users\user\source\repos\youareanidiot\youareanidiot\bin\Debug\youareanidiot.pdb
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.exe
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.pdb
+C:\Users\user\source\repos\youareanidiot\youareanidiot\obj\Debug\youareanidiot.Resource1.resources
